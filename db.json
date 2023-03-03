@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "nombre": "Alejandro",
+      "email": "rol4ndo99@gmail.com",
+      "telefono": "55555555",
+      "empresa": "Cuba",
+      "id": 4
+    },
+    {
+      "nombre": "Rolando",
+      "email": "rol4ndo99@gmail.com",
+      "telefono": "55555555",
+      "empresa": "Cuba",
+      "id": 5
+    },
+    {
+      "nombre": "Alejandro",
+      "email": "rol4ndo99@gmail.com",
+      "telefono": "54687465123",
+      "empresa": "Mexico",
+      "id": 6
+    },
+    {
+      "nombre": "Carlos",
+      "email": "rol4ndo99ofc@gmail.com",
+      "telefono": "55555555",
+      "empresa": "Mexico",
+      "id": 7
+    },
+    {
+      "nombre": "AlejandroXXXX",
+      "email": "rol4ndo99@gmail.com",
+      "telefono": "55555555",
+      "empresa": "Mexico",
+      "id": 11
+    }
+  ]
+}
